@@ -16,7 +16,7 @@ A basic website interface built using HTML and CSS.
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Amine4jh/Simple-Website.git
    ```
 2. Open the `index.html` file in a web browser.
 
